@@ -1,4 +1,4 @@
-# Este repositorio contiene archivos de "Pracica 2" Informatica II UdeA 2022-1 
+# Este repositorio contiene archivos de "Practica 2" Informática II UdeA 2022-1 
 
 </hr>
 
